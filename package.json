@@ -22,11 +22,10 @@
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
-  "license": "MIT",
+  "author": "Andrian Dwi Haryanto",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "",
   "dependencies": {}
 }
