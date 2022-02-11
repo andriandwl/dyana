@@ -15,8 +15,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
   },
   "keywords": [
     "Happy",
